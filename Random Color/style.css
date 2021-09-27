@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+#backGround{
+    background-color: rgb(255, 202, 202);
+    max-width: 10000000px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#colorButton{
+    color:  orange  ,  rebeccapurple  ,  teal  ,  tomato  
+    ,  yellowgreen  ,  olive  ,  orchid  ,  purple  ,  steelblue  ,
+      darkcyan  ,  darkmagenta  ,  darkgoldenrod  ,  deepskyblue  , 
+       mediumspringgreen  ,  midnightblue  ,  mediumvioletred  ,
+       mediumslateblue  ,   maroon  ,  navy  ,  bisque  ,
+        forestgreen  ,  gold  ,  hotpink  ,  firebrick   ,  lawngreen  ,  crimson  ,
+         chocolate  ,  blueviolet ,  cyan ,  lime  ,  coral  ,  khaki  ,
+           darkolivegreen #5a3b00 ;
+    font-weight: bolder;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 5px
+}
+#colorButton:hover{
+    box-shadow: 5px 2px 8px 2px gray;
+}
+#colorButton:active{
+    box-shadow: 5px 2px 8px 2px #000000e0;
+
+}
