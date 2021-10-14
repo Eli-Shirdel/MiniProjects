@@ -12,14 +12,7 @@ body{
     justify-content: center;
 }
 #colorButton{
-    color:  orange  ,  rebeccapurple  ,  teal  ,  tomato  
-    ,  yellowgreen  ,  olive  ,  orchid  ,  purple  ,  steelblue  ,
-      darkcyan  ,  darkmagenta  ,  darkgoldenrod  ,  deepskyblue  , 
-       mediumspringgreen  ,  midnightblue  ,  mediumvioletred  ,
-       mediumslateblue  ,   maroon  ,  navy  ,  bisque  ,
-        forestgreen  ,  gold  ,  hotpink  ,  firebrick   ,  lawngreen  ,  crimson  ,
-         chocolate  ,  blueviolet ,  cyan ,  lime  ,  coral  ,  khaki  ,
-           darkolivegreen #5a3b00 ;
+    color: black;
     font-weight: bolder;
     padding: 20px 60px;
     border: none;
