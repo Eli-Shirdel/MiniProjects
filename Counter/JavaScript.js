@@ -14,5 +14,4 @@ function decreaseFunc(){
     myNum.innerHTML = number
     if(number==0){
         bg.style.backgroundColor = "maroon "
-    }
-}
+    }}
